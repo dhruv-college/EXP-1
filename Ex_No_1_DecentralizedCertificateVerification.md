@@ -41,3 +41,8 @@ High-Level Overview:
 ```
 # Result:
 
+![exp 1(i)](https://github.com/user-attachments/assets/441e58b2-d176-4e76-a391-7cab8fd7e1d2)
+
+![exp 1(ii)](https://github.com/user-attachments/assets/fbef5bac-795c-46cd-ab2f-4bf50cc0a479)
+
+Thus the program was implemented and executed successfully and the output was verified
